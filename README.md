@@ -1,4 +1,6 @@
-**README.md**
+#Certificado:
+![image](https://github.com/user-attachments/assets/c731cc58-9148-487c-864b-2946915283d5)
+
 
 # API ESCOLA
 
